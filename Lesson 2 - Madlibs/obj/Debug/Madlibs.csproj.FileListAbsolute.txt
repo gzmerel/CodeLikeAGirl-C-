@@ -1,8 +1,0 @@
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\bin\Debug\Madlibs.exe.config
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\bin\Debug\Madlibs.exe
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\bin\Debug\Madlibs.pdb
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\obj\Debug\Madlibs.csproj.AssemblyReference.cache
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\obj\Debug\Madlibs.csproj.SuggestedBindingRedirects.cache
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\obj\Debug\Madlibs.csproj.CoreCompileInputs.cache
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\obj\Debug\Madlibs.exe
-C:\Users\gzmer\OneDrive\Documents\Project\Madlibs\obj\Debug\Madlibs.pdb

@@ -1,0 +1,15 @@
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\bin\Debug\net6.0\Lesson 2 - Madlibs.exe
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\bin\Debug\net6.0\Lesson 2 - Madlibs.deps.json
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\bin\Debug\net6.0\Lesson 2 - Madlibs.runtimeconfig.json
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\bin\Debug\net6.0\Lesson 2 - Madlibs.dll
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\bin\Debug\net6.0\Lesson 2 - Madlibs.pdb
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.csproj.AssemblyReference.cache
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.AssemblyInfoInputs.cache
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.AssemblyInfo.cs
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.csproj.CoreCompileInputs.cache
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.dll
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\refint\Lesson 2 - Madlibs.dll
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.pdb
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\Lesson 2 - Madlibs.genruntimeconfig.cache
+C:\Users\gzmer\OneDrive\Documents\Project\Lesson 2 - Madlibs\obj\Debug\net6.0\ref\Lesson 2 - Madlibs.dll

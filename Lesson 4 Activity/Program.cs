@@ -1,5 +1,5 @@
 ﻿Console.WriteLine ("Welcome to the Movie Maker");
-Console.WriteLine("Which type of movie do you like? (horror, comedy, sci-fi");
+Console.WriteLine("Which type of movie do you like? (horror, comedy, sci-fi)");
 string movieType = Console.ReadLine().Trim().ToLower();
 
 if (movieType == "horror")

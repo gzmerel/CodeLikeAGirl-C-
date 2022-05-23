@@ -1,0 +1,15 @@
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\bin\Debug\net6.0\Lesson 5 COURSE COORDINATOR.exe
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\bin\Debug\net6.0\Lesson 5 COURSE COORDINATOR.deps.json
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\bin\Debug\net6.0\Lesson 5 COURSE COORDINATOR.runtimeconfig.json
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\bin\Debug\net6.0\Lesson 5 COURSE COORDINATOR.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\bin\Debug\net6.0\Lesson 5 COURSE COORDINATOR.pdb
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.csproj.AssemblyReference.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.AssemblyInfoInputs.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.AssemblyInfo.cs
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.csproj.CoreCompileInputs.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\refint\Lesson 5 COURSE COORDINATOR.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.pdb
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\Lesson 5 COURSE COORDINATOR.genruntimeconfig.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 5 COURSE COORDINATOR\obj\Debug\net6.0\ref\Lesson 5 COURSE COORDINATOR.dll

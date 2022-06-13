@@ -1,45 +1,41 @@
 ﻿var firstNumber = 0.0;
 var secondNumber = 0.0;
 var operation = new List<string> {"+","-","/","*","^"};
-var userOperation = "";
+var userOperator = "";
 var userInput = " ";
 Console.WriteLine("This is a basic calculator");
-
+Console.WriteLine("============================");
 while (true)
 { 
-Console.WriteLine("Please enter the first number:");
-firstNumber = double.Parse(Console.ReadLine().Trim());
-Console.WriteLine("Please enter operator (+  -  /  *  ^)");
-userOperation = Console.ReadLine().Trim().ToString();
-Console.WriteLine("Please enter the second number:");
-secondNumber = double.Parse(Console.ReadLine().Trim());
-Console.WriteLine("If you want to exit press X");
-userInput= Console.ReadLine().Trim();
-    if (userInput == "X")
-    {
-        break;
-    }
-    switch (userOperation)
+firstNumber = AskFirstNumber(firstNumber);
+userOperator = AskForOperator(userOperator);
+secondNumber = AskSecondNumber(secondNumber);
+switch (userOperator)
     {
         case "+":
-        var result = Add(firstNumber , secondNumber);
-        Console.WriteLine($"The answer is {result}");
+        var sum = Add(firstNumber , secondNumber);
+        Console.WriteLine($"The answer is {sum}");
         break;
 
         case "-":
-        Substraction(firstNumber , secondNumber);
+        var difference = Subtraction(firstNumber , secondNumber);
+        Console.WriteLine($"The answer is {difference}");
         break;
         
         case "/":
-        Divided(firstNumber , secondNumber);
+        Division(firstNumber , secondNumber);
+        var quotient = Division(firstNumber , secondNumber);
+        Console.WriteLine($"The answer is {quotient}");
         break;
         
         case "*":
-        Multiply(firstNumber , secondNumber);
+        var product = Multiplication(firstNumber , secondNumber);
+        Console.WriteLine($"The answer is {product}");
         break;
         
         case "^":
-        Power(firstNumber , secondNumber);
+        var power = Power(firstNumber , secondNumber);
+        Console.WriteLine($"{firstNumber} to the power of {secondNumber} = {power}");
         break;
 
         default:
@@ -47,31 +43,54 @@ userInput= Console.ReadLine().Trim();
         break;
     } 
 
+    Console.WriteLine("If you want to exit press X");
+    userInput= Console.ReadLine().Trim();
+    if (userInput == "X" | userInput=="x")
+    {
+        break;
+    }
 }
-
+double AskFirstNumber(double firstNumber)
+    {
+        Console.WriteLine("Please enter the first number:");
+        firstNumber = double.Parse(Console.ReadLine().Trim());
+        return firstNumber;
+    }
+string AskForOperator(string userOperator)
+    {
+        Console.WriteLine("Please enter operator (+  -  /  *  ^)");
+        userOperator = Console.ReadLine().Trim().ToString();
+        return userOperator;
+    }
+double AskSecondNumber(double secondNumber)
+    {
+        Console.WriteLine("Please enter the second number:");
+        secondNumber = double.Parse(Console.ReadLine().Trim());
+        return secondNumber;
+    }
 double Add( double firstNumber, double secondNumber)
     {
-        var add = firstNumber + secondNumber;
-        Console.WriteLine($"{firstNumber}+{secondNumber}={add}");
-        return add;
+        var sum = firstNumber + secondNumber;
+        Console.WriteLine($"{firstNumber}+{secondNumber}={sum}");
+        return sum;
     }
-double Substraction(double firstNumber, double secondNumber)
+double Subtraction(double firstNumber, double secondNumber)
     {
-        var substract = firstNumber - secondNumber;
-        Console.WriteLine($"{firstNumber}-{secondNumber}={substract}");
-        return substract;
+        var difference = firstNumber - secondNumber;
+        Console.WriteLine($"{firstNumber}-{secondNumber}={difference}");
+        return difference;
     }
-double Divided (double firstNumber, double secondNumber)
+double Division (double firstNumber, double secondNumber)
     {
-        var divided = firstNumber / secondNumber;
-        Console.WriteLine($"{firstNumber}/{secondNumber}={divided}");
-        return divided;
+        var quotient = firstNumber / secondNumber;
+        Console.WriteLine($"{firstNumber}/{secondNumber}={quotient}");
+        return quotient;
     }
-double Multiply(double firstNumber, double secondNumber)
+double Multiplication(double firstNumber, double secondNumber)
     {
-        var multiply = firstNumber * secondNumber;
-        Console.WriteLine($"{firstNumber}*{secondNumber}={multiply}");
-        return multiply;
+        var product = firstNumber * secondNumber;
+        Console.WriteLine($"{firstNumber}*{secondNumber}={product}");
+        return product;
     }
 double Power(double firstNumber, double secondNumber)
     {

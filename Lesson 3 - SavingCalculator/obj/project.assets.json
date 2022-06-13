@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gzmer\\OneDrive\\Documents\\C#\\Lesson 3 Activity\\Lesson 3 Activity.csproj",
-      "projectName": "Lesson 3 Activity",
-      "projectPath": "C:\\Users\\gzmer\\OneDrive\\Documents\\C#\\Lesson 3 Activity\\Lesson 3 Activity.csproj",
+      "projectUniqueName": "C:\\Users\\gzmer\\OneDrive\\Documents\\C#\\Lesson 3 - SavingCalculator\\Lesson 3 - SavingCalculator.csproj",
+      "projectName": "Lesson 3 - SavingCalculator",
+      "projectPath": "C:\\Users\\gzmer\\OneDrive\\Documents\\C#\\Lesson 3 - SavingCalculator\\Lesson 3 - SavingCalculator.csproj",
       "packagesPath": "C:\\Users\\gzmer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gzmer\\OneDrive\\Documents\\C#\\Lesson 3 Activity\\obj\\",
+      "outputPath": "C:\\Users\\gzmer\\OneDrive\\Documents\\C#\\Lesson 3 - SavingCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

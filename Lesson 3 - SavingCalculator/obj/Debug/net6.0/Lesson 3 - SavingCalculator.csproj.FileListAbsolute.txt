@@ -1,0 +1,15 @@
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\bin\Debug\net6.0\Lesson 3 - SavingCalculator.exe
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\bin\Debug\net6.0\Lesson 3 - SavingCalculator.deps.json
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\bin\Debug\net6.0\Lesson 3 - SavingCalculator.runtimeconfig.json
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\bin\Debug\net6.0\Lesson 3 - SavingCalculator.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\bin\Debug\net6.0\Lesson 3 - SavingCalculator.pdb
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.csproj.AssemblyReference.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.AssemblyInfoInputs.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.AssemblyInfo.cs
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.csproj.CoreCompileInputs.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\refint\Lesson 3 - SavingCalculator.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.pdb
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\Lesson 3 - SavingCalculator.genruntimeconfig.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 3 - SavingCalculator\obj\Debug\net6.0\ref\Lesson 3 - SavingCalculator.dll

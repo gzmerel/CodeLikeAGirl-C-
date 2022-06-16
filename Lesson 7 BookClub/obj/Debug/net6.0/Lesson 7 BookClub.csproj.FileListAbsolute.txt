@@ -1,0 +1,15 @@
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\bin\Debug\net6.0\Lesson 7 BookClub.exe
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\bin\Debug\net6.0\Lesson 7 BookClub.deps.json
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\bin\Debug\net6.0\Lesson 7 BookClub.runtimeconfig.json
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\bin\Debug\net6.0\Lesson 7 BookClub.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\bin\Debug\net6.0\Lesson 7 BookClub.pdb
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.csproj.AssemblyReference.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.AssemblyInfoInputs.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.AssemblyInfo.cs
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.csproj.CoreCompileInputs.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\refint\Lesson 7 BookClub.dll
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.pdb
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\Lesson 7 BookClub.genruntimeconfig.cache
+C:\Users\gzmer\OneDrive\Documents\C#\Lesson 7 BookClub\obj\Debug\net6.0\ref\Lesson 7 BookClub.dll

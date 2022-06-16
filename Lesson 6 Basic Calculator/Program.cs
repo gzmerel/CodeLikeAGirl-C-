@@ -1,6 +1,6 @@
 ﻿var firstNumber = 0.0;
 var secondNumber = 0.0;
-var operation = new List<string> {"+","-","/","*","^"};
+
 var userOperator = "";
 var userInput = " ";
 Console.WriteLine("This is a basic calculator");
@@ -56,42 +56,49 @@ double AskFirstNumber(double firstNumber)
         firstNumber = double.Parse(Console.ReadLine().Trim());
         return firstNumber;
     }
+
 string AskForOperator(string userOperator)
     {
         Console.WriteLine("Please enter operator (+  -  /  *  ^)");
         userOperator = Console.ReadLine().Trim().ToString();
         return userOperator;
     }
+
 double AskSecondNumber(double secondNumber)
     {
         Console.WriteLine("Please enter the second number:");
         secondNumber = double.Parse(Console.ReadLine().Trim());
         return secondNumber;
     }
+
 double Add( double firstNumber, double secondNumber)
     {
         var sum = firstNumber + secondNumber;
         Console.WriteLine($"{firstNumber}+{secondNumber}={sum}");
         return sum;
     }
+
 double Subtraction(double firstNumber, double secondNumber)
     {
         var difference = firstNumber - secondNumber;
         Console.WriteLine($"{firstNumber}-{secondNumber}={difference}");
         return difference;
     }
+
 double Division (double firstNumber, double secondNumber)
     {
         var quotient = firstNumber / secondNumber;
         Console.WriteLine($"{firstNumber}/{secondNumber}={quotient}");
         return quotient;
     }
+
 double Multiplication(double firstNumber, double secondNumber)
     {
         var product = firstNumber * secondNumber;
         Console.WriteLine($"{firstNumber}*{secondNumber}={product}");
         return product;
     }
+    
 double Power(double firstNumber, double secondNumber)
     {
         var power = Math.Pow(firstNumber,secondNumber);

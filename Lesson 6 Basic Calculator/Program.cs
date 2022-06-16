@@ -1,8 +1,8 @@
 ﻿var firstNumber = 0.0;
 var secondNumber = 0.0;
-
 var userOperator = "";
 var userInput = " ";
+
 Console.WriteLine("This is a basic calculator");
 Console.WriteLine("============================");
 while (true)

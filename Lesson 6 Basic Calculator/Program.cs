@@ -50,6 +50,7 @@ switch (userOperator)
         break;
     }
 }
+
 double AskFirstNumber(double firstNumber)
     {
         Console.WriteLine("Please enter the first number:");

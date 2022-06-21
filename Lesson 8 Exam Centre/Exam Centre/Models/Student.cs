@@ -2,9 +2,16 @@ namespace ExamCentre.Models
 {
    public class Student
    {
-      public Student(string studentName , int candidateNumber ){}
+      public Student(string studentName , int candidateNumber ){
+         studentName = studentName;
+         candidateNumber = candidateNumber;
+      }
       public int candidateNumber;
       private string studentName;
-      public int[] score = Enumerable.Range(1,100).ToArray();
+      public int[] score;
+      public void PrintStudent(Student student){
+         Console.WriteLine($"{student.candidateNumber} belongs to {student.studentName}"); 
+      }
+       
    };
 }

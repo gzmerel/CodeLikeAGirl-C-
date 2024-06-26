@@ -13,3 +13,18 @@ C:\Users\gzmer\OneDrive\Documents\C#\Lesson 8 Exam Centre\Exam Centre\obj\Debug\
 C:\Users\gzmer\OneDrive\Documents\C#\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.pdb
 C:\Users\gzmer\OneDrive\Documents\C#\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.genruntimeconfig.cache
 C:\Users\gzmer\OneDrive\Documents\C#\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\ref\Exam Centre.dll
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\bin\Debug\net6.0\Exam Centre.exe
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\bin\Debug\net6.0\Exam Centre.deps.json
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\bin\Debug\net6.0\Exam Centre.runtimeconfig.json
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\bin\Debug\net6.0\Exam Centre.dll
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\bin\Debug\net6.0\Exam Centre.pdb
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.AssemblyInfoInputs.cache
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.AssemblyInfo.cs
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.csproj.CoreCompileInputs.cache
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.sourcelink.json
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.dll
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\refint\Exam Centre.dll
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.pdb
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\Exam Centre.genruntimeconfig.cache
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 8 Exam Centre\CodeLikeAGirl-C-\Lesson 8 Exam Centre\Exam Centre\obj\Debug\net6.0\ref\Exam Centre.dll

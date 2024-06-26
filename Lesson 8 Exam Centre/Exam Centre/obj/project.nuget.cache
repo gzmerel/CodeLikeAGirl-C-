@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EHPJ1qYnY6PbZRoJ9WwxVOMubmlS3NCmYSNRB/GTCsD5DBSyccj5CHDNBg2bNw7Uru2y/hSoDRyo7DyxTyG1Bw==",
+  "dgSpecHash": "XNJbHTuZw0A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gzmer\\OneDrive\\Documents\\C#\\Lesson 8 Exam Centre\\Exam Centre\\Exam Centre.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gerel\\OneDrive - ECI Software Solutions\\Documents\\Personal\\Gizem\\Lesson 8 Exam Centre\\CodeLikeAGirl-C-\\Lesson 8 Exam Centre\\Exam Centre\\Exam Centre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerel\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\gerel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\gerel\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\gerel\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

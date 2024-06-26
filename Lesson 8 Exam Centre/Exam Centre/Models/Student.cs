@@ -2,16 +2,20 @@ namespace ExamCentre.Models
 {
    public class Student
    {
-      public Student(string studentName , int candidateNumber ){
-         studentName = studentName;
-         candidateNumber = candidateNumber;
+      public int CandidateNumber { get; set; }
+      private string _studentName; 
+      public int[] Score { get; set; }
+
+      public Student(int candidateNumber, string studentName, int[] score)
+      {
+         CandidateNumber = candidateNumber;
+         _studentName=studentName; 
+         Score = score;
       }
-      public int candidateNumber;
-      private string studentName;
-      public int[] score;
-      public void PrintStudent(Student student){
-         Console.WriteLine($"{student.candidateNumber} belongs to {student.studentName}"); 
+      public void PrintStudentDetails()
+      {
+         Console.WriteLine($"Candidate Number : {CandidateNumber},Score: {string.Join(",",Score)}");
       }
-       
-   };
+
+   }
 }

@@ -1,0 +1,14 @@
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\bin\Debug\net8.0\RideShare.exe
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\bin\Debug\net8.0\RideShare.deps.json
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\bin\Debug\net8.0\RideShare.runtimeconfig.json
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\bin\Debug\net8.0\RideShare.dll
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\bin\Debug\net8.0\RideShare.pdb
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\RideShare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\RideShare.AssemblyInfoInputs.cache
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\RideShare.AssemblyInfo.cs
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\RideShare.csproj.CoreCompileInputs.cache
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\RideShare.dll
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\refint\RideShare.dll
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\RideShare.pdb
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\RideShare.genruntimeconfig.cache
+C:\Users\gerel\OneDrive - ECI Software Solutions\Documents\Personal\Gizem\Lesson 10 Ride Share\RideShare\obj\Debug\net8.0\ref\RideShare.dll

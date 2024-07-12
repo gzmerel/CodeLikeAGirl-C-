@@ -1,11 +1,11 @@
 
 namespace RideShare.Models
 {
-    public class ExtraLargeCar : Vehicle
-    {
+    public class ExtraLargeCar : Car
+    {   
           public override void ReportDistance()
         {
-            Console.WriteLine("This must be the Extra Large Car");
+            Console.WriteLine($"Extra Large Car distance is {DistanceAwayInKm}");
         }
     }
 }

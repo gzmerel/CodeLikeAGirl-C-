@@ -3,11 +3,12 @@ using System.IO.Compression;
 
 namespace RideShare.Models
 {
-    public class LuxuryCar : Vehicle
+    public class LuxuryCar : Car
     {
+        
         public override void ReportDistance()
         {
-            Console.WriteLine("This must be the Luxury Car");
+            Console.WriteLine($"Luxury Car distance is {DistanceAwayInKm}");
         }
     }
 }

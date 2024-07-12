@@ -5,7 +5,7 @@ namespace RideShare.Models
     {
             public override void ReportDistance()
         {
-            Console.WriteLine("This must be the  Car");
+            Console.WriteLine($"The Car distance is {DistanceAwayInKm}");
         }
     }
 }

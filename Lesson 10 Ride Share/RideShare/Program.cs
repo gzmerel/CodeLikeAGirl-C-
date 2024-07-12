@@ -7,13 +7,25 @@ namespace RideShare
     {
         static void Main(string[] args)
         {
-            var vehicle1 = new Vehicle();
             var car1  = new Car();
-            var extralargeCar1= new ExtraLargeCar();
 
-            vehicle1.ReportDistance();
+            var luxuryCar1= new LuxuryCar();
+
             car1.ReportDistance();
+            car1.DistanceAwayInKm = 3.5;
+            
             extralargeCar1.ReportDistance();
+
+
+             var vehicles = new List<Vehicle>
+             {
+                new Car(),
+                new ExtraLargeCar(),
+                new LuxuryCar()
+
+             };
+
+
         }
     }
     
